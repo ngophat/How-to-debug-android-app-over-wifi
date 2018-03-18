@@ -14,4 +14,4 @@ Notice: Now you have to enable USB Debugging  on your phone (Settings -> Additio
 
   From now on, you would no longer need an USB cable. You can quickly copy the IP address of your device and parse it to this plugin (Ex: 192.168.1.108, you can find it on your Wifi details), then press `Connect` image button, and now you can Run or Debug over wifi.
 
-% Step 3: Enjoy it! :)
+* Step 3: Enjoy it! :)
